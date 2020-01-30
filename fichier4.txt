@@ -1,0 +1,3 @@
+*********************TutosGadji***************************
+Dans cette phase, nous essayons de faire un commit puis un push
+
